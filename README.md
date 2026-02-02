@@ -11,8 +11,8 @@ A Windows Explorer context menu extension that can:
 ## How it works (high level)
 - Uses SharpShell to integrate into the Windows Explorer context menu.
 - Uses iText to generate PDFs.
-- The “Concat” feature converts each selected file into a temporary PDF in memory,
-  then merges all parts into one output document.
+- The “Concat” feature converts each selected file into a temporary PDF in
+  memory, then merges all parts into one output document.
 
 ## Build / Run
 This project targets **.NET Framework 4.8** and builds as a **Class Library**
@@ -31,7 +31,7 @@ Work in progress (WIP). This project is not finished yet and may contain bugs,
 edge cases, or unfinished features. Use at your own risk.
 
 ## License
-See `LICENSE`.
+Licensed under the GNU AGPLv3. See `LICENSE`.
 
 ## Third-party libraries
 See `THIRD_PARTY_NOTICES.md`.
